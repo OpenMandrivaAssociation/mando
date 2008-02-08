@@ -8,7 +8,7 @@ Group:		Office
 License:	GPLv2+
 BuildRequires:	qt4-devel boost-devel f2c fftw3-devel
 BuildRequires:	dc1394-devel lapack-devel
-BuildRequires:	ImageMagick
+BuildRequires:	ImageMagick libxtst-devel
 
 %description
 A software for camera-projector interaction.

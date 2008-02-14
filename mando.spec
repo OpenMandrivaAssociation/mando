@@ -5,6 +5,7 @@ Summary:	Interactive Camera-Projector System
 Source:		http://vision.eng.shu.ac.uk/jan/%{name}-%{version}.tar.bz2
 URL:		http://vision.eng.shu.ac.uk/mediawiki/index.php/Interactive_Camera-Projector_System
 Group:		Office
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License:	GPLv2+
 BuildRequires:	qt4-devel boost-devel f2c fftw3-devel
 BuildRequires:	dc1394-devel lapack-devel mesaglut-devel

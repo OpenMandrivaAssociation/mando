@@ -9,7 +9,7 @@ BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License:	GPLv2+
 BuildRequires:	qt4-devel boost-devel f2c fftw3-devel
 BuildRequires:	dc1394-devel lapack-devel mesaglut-devel
-BuildRequires:	ImageMagick libxtst-devel blas-devel
+BuildRequires:	imagemagick libxtst-devel blas-devel
 
 %description
 A software for camera-projector interaction.

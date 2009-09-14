@@ -1,6 +1,6 @@
 Name:		mando
 Version:	1.6
-Release:	%mkrel 1
+Release:	%mkrel 2
 Summary:	Interactive Camera-Projector System
 Source:		http://vision.eng.shu.ac.uk/jan/%{name}-%{version}.tar.bz2
 URL:		http://vision.eng.shu.ac.uk/mediawiki/index.php/Interactive_Camera-Projector_System

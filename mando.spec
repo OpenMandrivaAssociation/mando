@@ -3,7 +3,7 @@ Version:	1.6
 Release:	%mkrel 2
 Summary:	Interactive Camera-Projector System
 Source:		http://vision.eng.shu.ac.uk/jan/%{name}-%{version}.tar.bz2
-URL:		http://vision.eng.shu.ac.uk/mediawiki/index.php/Interactive_Camera-Projector_System
+URL:		https://vision.eng.shu.ac.uk/mediawiki/index.php/Interactive_Camera-Projector_System
 Group:		Office
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License:	GPLv2+
